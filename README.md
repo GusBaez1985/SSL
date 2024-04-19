@@ -1,2 +1,6 @@
 # SSL
-Repositorio asociado a la Materia Sintaxis y Semántica de los Lenguajes K2006
+Repositorio asociado a: 
+- Alumno: Gustavo Baez 
+- Usuario GitHub: GusBaez1985
+- Materia: Sintaxis y Semántica de los Lenguajes 
+- Curso: K2006, 
